@@ -1,8 +1,10 @@
 # Consultas-SQL
 Proyecto 2 - Lógica: Consultas de SQL
 
+## Objetivo:
 Este proyecto consiste en la resolución de 64 enunciados en los que se debe usar SQL para resolver las consultas propuestas.
 
+## Conocimientos aplicados:
 Se han aplicado los siguientes conocimientos aprendidos en cada una de las lecciones de esta sección:
 
 - Manejo de la herramienta DBeaver.
@@ -13,12 +15,14 @@ Se han aplicado los siguientes conocimientos aprendidos en cada una de las lecci
 - Manejo de vistas.
 - Manejo de estructuras de datos temporales.
 
-Además, se han aplicado buenas prácticas tomando en cuenta:
+## Buenas prácticas:
+Se han aplicado buenas prácticas tomando en cuenta:
 - La correcta estructura de las consultas.
 - La legibilidad del código.
 - La consistencia en cuanto al formato y el orden de las consultas.
 - La inclusión de comentarios para facilitar el entendimiento por parte de terceros.
 
+## Descripción de los datos:
 La base de datos usada en este proyecto constaba de 15 tablas distintas que muestran información sobre Cinematografía, incluyendo información de películas, actores, género(categoria), lenguage, etc. Y tambien información de negocio, con detalles de los alquileres de películas que permite hacer una analisis completo del negocio.  
 
 A continuación se muestran las tablas:
